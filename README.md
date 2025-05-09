@@ -1,5 +1,7 @@
 ✈️ reserva vuelos API
+
 Este proyecto es una API para gestionar la reserva de vuelos, desarrollada en Java 17 con Spring Boot, usando SQL Server como base de datos. Toda la aplicación está dockerizada para facilitar su despliegue.
+
 
 # ✅ Requisitos Previos
 
